@@ -35,4 +35,14 @@
         .main-block{
             display: flex;
         }
+        .flex-item{
+        width: 1500px;
+        height: 200px;
+        background-color: black;
+        color: white;
+        /* margin: 5px; */
+        }
+        .logo{
+            
+        }
         
