@@ -1,0 +1,18 @@
+.flex-container{
+            display: flex;
+            /* justify-content: space-between; */
+            background-color: green;
+            height: 60px;
+            align-items: center;
+            /* column-gap: 16px; */
+            /* justify-content: end; */
+            justify-content: space-between;
+        }
+        .flex-items{
+        margin: 5px;
+        color: white;
+        }
+        .items{
+            display: flex;
+            column-gap: 120px;
+        }
