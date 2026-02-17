@@ -1,4 +1,6 @@
-.flex-container{
+
+       
+        .flex-container{
             display: flex;
             /* justify-content: space-between; */
             background-color: green;
@@ -16,3 +18,25 @@
             display: flex;
             column-gap: 120px;
         }
+        h1{
+            text-align: center;
+            text-decoration: underline;
+            color: rgb(133, 197, 38);
+    }
+        .ourstory{
+            display: flex;
+            column-gap: 50px;
+            justify-content: space-evenly;
+    }
+        .main-block{
+            display: flex;
+        }
+        .flex-item{
+        width: 1500px;
+        height: 200px;
+        background-color: black;
+        color: white;
+        /* margin: 5px; */
+        }
+       
+        
