@@ -22,5 +22,17 @@
             text-align: center;
             text-decoration: underline;
             color: rgb(133, 197, 38);
-
     }
+        .ourstory{
+            display: flex;
+            column-gap: 50px;
+            justify-content: space-evenly;
+        }
+         h2{
+            text-decoration: underline;
+            color: rgb(116, 163, 46);
+    }
+        .main-block{
+            display: flex;
+        }
+        
