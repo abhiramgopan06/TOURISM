@@ -30,6 +30,8 @@
     }
         .main-block{
             display: flex;
+            justify-content: space-evenly;
+
         }
         .flex-item{
         width: 1500px;
@@ -37,6 +39,9 @@
         background-color: black;
         color: white;
         /* margin: 5px; */
+        }
+        .block{
+            width: 600px;
         }
        
         

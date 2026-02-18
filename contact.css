@@ -3,3 +3,11 @@
             text-decoration: underline;
             color: rgb(133, 197, 38);
     }
+    .lin{
+        display: flex;
+        column-gap: 5px;
+        justify-content: space-evenly;
+    }
+    .tin{
+          width: 300px;
+    }

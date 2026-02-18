@@ -31,16 +31,24 @@
          h2{
             text-decoration: underline;
             color: rgb(116, 163, 46);
+            text-align: center;
+
+
     }
         .main-block{
             display: flex;
+            column-gap: 50px;
+            justify-content: space-evenly;
+        
         }
         .flex-item{
         width: 1500px;
         height: 200px;
         background-color: black;
         color: white;
-        /* margin: 5px; */
+        }
+        .block{
+            width: 500px;
         }
        
         
