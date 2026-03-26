@@ -31,6 +31,8 @@ git clone https://github.com/your-username/your-repo-name.git
 3. Double-click on index.html
 OR open it in your browser
 
+---
+
 ## Purpose of the Project
 
 ** This project is created to:
@@ -39,6 +41,8 @@ Practice HTML and CSS skills
 Build a simple tourism website
 Understand layout design and structure
 Improve frontend development basics
+
+---
 
 ## 📌 Future Improvements
 Add JavaScript for interactivity
